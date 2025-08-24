@@ -108,12 +108,12 @@ https://ecom-store-opal.vercel.app/
 ## Screenshots
 
 **Product Listing Page**
-![Product Listing]<img width="1580" height="918" alt="image" src="https://github.com/user-attachments/assets/a342839e-87e8-48ef-b8f2-fd24e75a4c66" />
+<img width="1580" height="918" alt="image" src="https://github.com/user-attachments/assets/a342839e-87e8-48ef-b8f2-fd24e75a4c66" />
 
 
 
 **Admin Panel**
-![Admin Panel]<img width="1068" height="914" alt="image" src="https://github.com/user-attachments/assets/e19ea9c7-6fa5-4254-bdfc-41fe77cceaa2" />
+<img width="1068" height="914" alt="image" src="https://github.com/user-attachments/assets/e19ea9c7-6fa5-4254-bdfc-41fe77cceaa2" />
 
 
 ---
